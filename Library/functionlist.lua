@@ -1,4 +1,4 @@
-[[
+--[[
 Clipboard Library Support:
 API.clipboard_get
 API.clipboard_set
@@ -39,4 +39,4 @@ API.io_append
 
 Drawing Library Support:
 API.Drawing_new
-]]
+--]]
