@@ -7,6 +7,7 @@ Environment Functions Support:
 API.getgenv
 API.getrenv
 API.getsenv
+API.getfenv
 API.getmenv
 API.getreg
 API.getobjects
@@ -39,4 +40,13 @@ API.io_append
 
 Drawing Library Support:
 API.Drawing_new
+
+Custom Functions Support:
+
+API.obj_override
+API.getvalue
+API.setvalue
+API.getexploit
+API.getscripts -- Protosmasher Exclusive
+
 --]]
